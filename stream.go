@@ -4,7 +4,6 @@ package reisen
 // #include <libavcodec/avcodec.h>
 // #include <libavformat/avformat.h>
 // #include <libavutil/avconfig.h>
-// #include <libavcodec/bsf.h>
 import "C"
 import (
 	"fmt"

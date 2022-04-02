@@ -21,7 +21,8 @@ sudo pacman -S ffmpeg
 For **Debian**-based **Linux** distributions:
 
 ```bash
-sudo apt install libswscale-dev libavcodec-dev libavformat-dev libswresample-dev libavutil-dev
+sudo apt install libswscale-dev libavcodec-dev libavformat-dev libswresample-dev libavutil-dev libasound2-dev
+sudo apt-get install libgl1-mesa-dev xorg-dev
 ```
 
 For **macOS**:
